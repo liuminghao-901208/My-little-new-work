@@ -1,0 +1,5 @@
+﻿E:\WORK\MODEL\塞下曲\t$m$p$$$\士兵2.max
+E:\WORK\MODEL\塞下曲\t$m$p$$$\MAXFILES.TXT
+G:\U3 Engine Resources\L_LXHDJ_流星蝴蝶剑OL\Npc\Texture2D\T_ShiBing002_c.tga
+G:\U3 Engine Resources\L_LXHDJ_流星蝴蝶剑OL\Npc\Texture2D\T_ShiBing002_b.tga
+G:\U3 Engine Resources\L_LXHDJ_流星蝴蝶剑OL\Npc\Texture2D\T_ShiBing002_a_2.tga
